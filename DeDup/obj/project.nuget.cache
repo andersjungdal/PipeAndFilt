@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1B/3N1yA2XCdXZ5ZF+DYItmrqJ8W3fgaYJAvX7qGU7w1hpxyWLrf0yyObq2yK6itpsx1MZjTaj2Vdy02ntmxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ander\\Desktop\\Pipes_and_Filters\\PipesAndFilters\\DeDup\\DeDup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

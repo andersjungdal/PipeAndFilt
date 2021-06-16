@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqvmwe42Xx6DQqrsw+SUEBlTI7VzTelSx/JmmFIpwOibYw+zoWjFUh6qIPrViHL2kqAgKMD0k6QQV6kroA08BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ander\\Desktop\\Pipes_and_Filters\\PipesAndFilters\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
